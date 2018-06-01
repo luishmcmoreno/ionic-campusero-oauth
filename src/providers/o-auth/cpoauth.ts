@@ -13,7 +13,6 @@ export class CPOauth extends OAuthProvider {
 
   constructor(options: ICPOptions = {}) {
     super(options);
-    console.log('test');
   }
 
 }
